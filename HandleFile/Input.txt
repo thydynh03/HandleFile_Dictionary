@@ -1,0 +1,5 @@
+Student is required to write a program allowing users to:
+1) Read the text file on the computer disk, that contains a simple list of people with name, address, and his/her salary separated by character “;” (semi-colon). Each line contains the information of one person;
+Ask the user to enter the path to a text file, and the minimum salary. The program should read the list of people in the file and display to persons, who have a salary greater or equal the inputted number. If the salary of some person is in wrong format (not a number, not inputted) to set it to default value zero.
+Display list of found persons on the screen in the format of columns (see UI requirements)
+2) Read the text file on the computer storage and find all single words from its content, each word counted only once. Write all found words into new text file.

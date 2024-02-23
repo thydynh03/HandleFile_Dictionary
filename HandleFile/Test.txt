@@ -1,0 +1,4 @@
+Name;Address;Money
+Thi;Quang Nam;1000.0
+Trung;Quang Tri;1200.0
+An;Da Nang;1300.0
